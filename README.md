@@ -1,2 +1,2 @@
 # PythonRepo
-My python projecg
+My python project
